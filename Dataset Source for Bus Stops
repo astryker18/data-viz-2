@@ -3,5 +3,8 @@
   <p>To get the coordinates of Downtown bike stations, I downloaded a csv file from The Western Pennsylvania Regional Data Center's website. The page link is here:</p>
   <link href='https://data.wprdc.org/dataset/healthyride-stations' />
 <h4>Bus Stops</h4>
-  <p>I needed bus stop coordinates for this project, so I used a map from Port Authority's website. To get the Downtown bus stop coordinates, I eliminated all layers on the map except the bus stops and assigned each stop a marker that allowed me to view the coordinates. I then copied and pasted each set of coordinates into an Excel file and exported it as a csv for the project. The link to Port Authority's map is here:</p>
+  <p>I needed bus stop coordinates for this project, so I used a map from Port Authority's website. I eliminated all layers on the map except the bus stops and counted each stop by hand for each neighborhood. The link to Port Authority's map is here:</p>
   <link href='https://paac.maps.arcgis.com/apps/webappviewer/index.html?id=21b561fba9284378be9f1c620f2dd48e' />
+<h5>Neighborhood Map</h5>
+  <p>To ensure I remained within the correct boundaries of each neighborhood while counting bus stops, I used this map as an approximate guide:</p>
+  <link href='https://en.wikipedia.org/wiki/List_of_Pittsburgh_neighborhoods' />
